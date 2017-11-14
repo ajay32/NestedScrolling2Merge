@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">NestedScrolling2</string>
+
+    <string name="text_data1">
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+        qpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqpqppqpqqpqpqpqpqpqpqppqqpqpqpqpqpqpqpqpq
+    </string>
+
+    <string name="text_data2">
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+        tytytytytytyyttytytytytytytyytytytytytytyty
+    </string>
+
+
+    <string name="text_data3">
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+        zxzxxzxzxzxzxzxzxzxzxzxzxxzxzxzxzxzxzxzxzxzx
+    </string>
+</resources>
